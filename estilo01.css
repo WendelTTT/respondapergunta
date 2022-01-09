@@ -1,0 +1,94 @@
+header {
+    font-size: 60px;
+    color: rgb(218, 231, 231);
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    position: fixed;
+    background-color: rgb(5, 90, 50);
+    width: 1400px;
+    height: 100px;
+}
+
+body {
+    font-family: 'Luxurious Roman', cursive;
+    background-image: url('https://images2.alphacoders.com/145/thumb-1920-145430.jpg');
+    background-attachment: fixed;
+}
+
+div {
+    color: blue;
+}
+
+nav {
+    background-image: url('https://img.olhardigital.com.br/wp-content/uploads/2020/12/Angara_A5-1024x683.jpg');
+    position: fixed;
+    color: rgb(231, 181, 18);
+    font-size: 45px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: auto;
+    border: 0px solid rgb(150, 139, 139);
+    width: 1400px;
+}
+
+titulotexto {
+    font-size: 32;
+    color: black;
+    font-family: fantasy;
+}
+
+article {
+    color: rgb(234, 240, 227);
+    min-height: 200px;
+    width: 70%;
+    float: left;
+    padding-top: 150px;
+    background-color: rgba(220, 228, 178, 0.3);
+}
+
+section {
+    color: cornflowerblue;
+}
+
+aside {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 110px;
+    float: right;
+    height: 800px;
+    width: 25%;
+}
+
+footer {
+    color: rgb(185, 121, 121);
+    position: fixed;
+    margin-top: 550px;
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: rgb(9, 68, 38);
+    opacity: 0.95;
+    width: 1400px;
+    height: 30px;
+}
+
+#botao1 {
+    width: 200px;
+    height: 35px;
+}
+
+#imagem-2 {
+    width: 7cm;
+    height: 5cm;
+}
+
+y {
+    background-color: rgba(104, 158, 12, 0.3);
+    color: black;
+    position: fixed;
+    margin-right: 12px;
+    margin-left: 12px
+}
+
+.container {
+    width: 1400px;
+    margin: auto;
+}
