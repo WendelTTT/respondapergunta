@@ -5,8 +5,8 @@ header {
     position: fixed;
     background-color: rgb(5, 90, 50);
     max-width: 1400px;
-    min-width:700px; 
-    max-height: 100px;
+    min-width:1000px; 
+    max-height: 200px;
     min-height:50px;
 
 }
@@ -31,7 +31,8 @@ nav {
     padding-right: 100px;
     margin: auto;
     border: 0px solid rgb(150, 139, 139);
-    width: 1400px;
+    min-width: 1400px;
+    max-width:2000;
 }
 
 titulotexto {
@@ -42,8 +43,8 @@ titulotexto {
 
 article {
     color: rgb(234, 240, 227);
-    min-height: 200px;
-    max-height:400px;
+    min-height: 600px;
+    max-height:800px;
     width: 70%;
     float: left;
     padding-top: 150px;
