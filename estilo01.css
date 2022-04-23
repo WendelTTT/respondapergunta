@@ -4,9 +4,13 @@ header {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     position: fixed;
     background-color: rgb(5, 90, 50);
-    width: 1400px;
-    height: 100px;
+    max-width: 1400px;
+    min-width:700px; 
+    max-height: 100px;
+    min-height:50px;
+
 }
+
 
 body {
     font-family: 'Luxurious Roman', cursive;
