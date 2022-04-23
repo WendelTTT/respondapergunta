@@ -45,7 +45,7 @@ article {
     color: rgb(234, 240, 227);
     min-height: 6000px;
     max-height:80000px;
-    
+    width:70%;
     float: left;
     padding-top: 150px;
     background-color: rgba(220, 228, 178, 0.3);
