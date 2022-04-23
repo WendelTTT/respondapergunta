@@ -43,6 +43,7 @@ titulotexto {
 article {
     color: rgb(234, 240, 227);
     min-height: 200px;
+    max-height:400px;
     width: 70%;
     float: left;
     padding-top: 150px;
@@ -75,8 +76,10 @@ footer {
 }
 
 #botao1 {
-    width: 200px;
-    height: 35px;
+    max-width: 200px;
+    min-width:100px;
+    min-height:17px;
+    max-height: 35px;
 }
 
 #imagem-2 {
