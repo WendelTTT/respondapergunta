@@ -26,7 +26,7 @@ nav {
     background-image: url('https://img.olhardigital.com.br/wp-content/uploads/2020/12/Angara_A5-1024x683.jpg');
     position: fixed;
     color: rgb(231, 181, 18);
-    font-size: 45px;
+    font-size: 65px;
     padding-left: 100px;
     padding-right: 100px;
     margin: auto;
@@ -36,15 +36,15 @@ nav {
 }
 
 titulotexto {
-    font-size: 32;
+    font-size: 42;
     color: black;
     font-family: fantasy;
 }
 
 article {
     color: rgb(234, 240, 227);
-    min-height: 600px;
-    max-height:8000px;
+    min-height: 6000px;
+    max-height:80000px;
     width: 70%;
     float: left;
     padding-top: 150px;
